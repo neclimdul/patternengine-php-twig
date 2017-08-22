@@ -1,6 +1,6 @@
 {
-	"name":             "pattern-lab/patternengine-twig",
-	"description":      "Twig-based PatternEngine for Pattern Lab.",
+	"name":             "neclimdul/patternengine-twig",
+	"description":      "Temporary fork to test twig-based PatternEngine for Pattern Lab.",
 	"keywords":         ["twig", "pattern lab", "pattern engine"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",
@@ -24,8 +24,8 @@
 		}
 	},
 	"require": {
-		"pattern-lab/core": "^2.0.0",
-		"twig/twig":        "~1.0"
+    "neclimdul/pattern-lab-core": "^2.7",
+    "twig/twig":        "~1.0"
 	},
 	"extra": {
 		"patternlab": {
